@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .MyButton{
-  @apply font-VelaSans text-[20px] font-medium py-[10.5px] px-[36.5px] flex justify-between items-center
+  @apply font-VelaSans text-[20px] font-medium flex justify-between items-center
   bg-[#111111] rounded-full text-white border-2 border-[#111111] border-solid duration-300 leading-6;
 }
 .MyButton:hover{
