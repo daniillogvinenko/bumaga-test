@@ -1,0 +1,3 @@
+.LatestProjectsCard{
+    @apply font-VelaSans text-[20px] w-[32%] border-solid border-2 border-red-500;
+}

@@ -1,6 +1,6 @@
 import React from 'react'
-import LangSwitch from '../../shared/ui/LangSwitch';
-import logo from './media/logo.png'
+import LangSwitch from '../../shared/ui/LangSwitch/LangSwitch';
+import logo from './assets/logo.png'
 
 const Sidebar = () => {
   return (
@@ -23,7 +23,7 @@ const Sidebar = () => {
       <div className='py-[20px] pl-[53px] border-2 border-solid border-black border-opacity-20 border-t-0 border-r-0'>
         О нас
       </div>
-      <div className='w-full border-solid border-black border-r-2 border-opacity-20  border-r-0'>
+      <div className='w-full border-solid border-black border-opacity-20  border-r-0'>
         <LangSwitch active='eng' styles='ml-[53px] mt-[50px]'/>
       </div>
     </aside>

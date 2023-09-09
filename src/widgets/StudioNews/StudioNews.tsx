@@ -1,5 +1,5 @@
 import React from 'react'
-import News from '../../entities/News/News';
+import News from '../../entities/News/types/News';
 import picture from './media/Group 39929.png'
 
 const StudioNews = () => {

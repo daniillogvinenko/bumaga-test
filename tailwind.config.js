@@ -10,7 +10,7 @@ module.exports = {
         'Chava' : 'Chava',
       },
       backgroundImage: {
-        'paperBackground' : "url('pages/MainPage/media/paperBackground.png')"
+        'paperBackground' : "url('pages/MainPage/assets/paperBackground.png')"
       }
     },
   },

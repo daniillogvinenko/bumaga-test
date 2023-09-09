@@ -1,7 +1,7 @@
 import React from 'react'
-import Button from '../../shared/ui/Button';
-import comeInPicture from './media/comein.png'
-import someTailsPicture from './media/sometails.png'
+import Button from '../../shared/ui/Button/Button';
+import comeInPicture from './assets/comein.png'
+import someTailsPicture from './assets/sometails.png'
 
 const IntroBlock = () => {
   return (

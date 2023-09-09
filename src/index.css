@@ -76,19 +76,3 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: inherit;
 }
 /*# sourceMappingURL=nullstyle.css.map ------------------------------------------------------------------------------*/
-
-
-.MyButton{
-  @apply font-VelaSans text-[20px] font-medium flex justify-between items-center
-  bg-[#111111] rounded-full text-white border-2 border-[#111111] border-solid duration-300 leading-6;
-}
-.MyButton:hover{
-  @apply bg-[#76FF03] text-[#111111];
-}
-.MyButton:hover path{
-  @apply stroke-[#111111];
-}
-
-.LangSwitchActive{
-  @apply bg-[#111111] text-white;
-}

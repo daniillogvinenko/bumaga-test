@@ -1,0 +1,6 @@
+.LatestArticlesCard img{
+    @apply duration-300;
+}
+.LatestArticlesCard:hover img{
+    transform: scale(1.01);
+}

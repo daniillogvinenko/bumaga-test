@@ -1,0 +1,9 @@
+.arrowImg{
+    transition-duration: 300ms;
+    -webkit-mask: url('./assets/Arrow.svg') no-repeat center;
+    mask: url('./assets/Arrow.svg') no-repeat center;
+}
+
+.Link:hover .arrowImg{
+    background-color: #1800FF;
+}

@@ -1,5 +1,5 @@
 import React from 'react'
-import { NewsProps } from './types';
+import { NewsProps } from '.';
 
 const News = ({ date, title, hashtag }:NewsProps) => {
   return (

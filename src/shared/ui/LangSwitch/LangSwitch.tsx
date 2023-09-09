@@ -1,5 +1,6 @@
 import React from 'react'
-import { LangSwitchProps } from '../types';
+import { LangSwitchProps } from '../../types';
+import './LangSwitch.css'
 
 const LangSwitch = ({ active, styles }: LangSwitchProps) => {
   return (
